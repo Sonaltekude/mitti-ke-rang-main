@@ -13,10 +13,10 @@ export const Gallary = () => {
       <div className="container py-5">
         <h2 className="text-center mb-5" style={{ color: "#2d6a4f", fontWeight: "bold" }}>OUR GALLERY</h2>
 
-        {/* Gallery Grid */}
+       
         <div className="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4 g-4">
           
-          {/* Gallery Item 1 */}
+         
           <div className="col">
             <div className="card border-0 shadow-sm rounded overflow-hidden">
               <img 
@@ -31,7 +31,7 @@ export const Gallary = () => {
             </div>
           </div>
 
-          {/* Gallery Item 2 */}
+         
           <div className="col">
             <div className="card border-0 shadow-sm rounded overflow-hidden">
               <img 
@@ -46,7 +46,7 @@ export const Gallary = () => {
             </div>
           </div>
 
-          {/* Gallery Item 3 */}
+        
           <div className="col">
             <div className="card border-0 shadow-sm rounded overflow-hidden">
               <img 
@@ -61,7 +61,6 @@ export const Gallary = () => {
             </div>
           </div>
 
-          {/* Gallery Item 4 */}
           <div className="col">
             <div className="card border-0 shadow-sm rounded overflow-hidden">
               <img 
@@ -76,7 +75,7 @@ export const Gallary = () => {
             </div>
           </div>
 
-          {/* Gallery Item 5 */}
+         
           <div className="col">
             <div className="card border-0 shadow-sm rounded overflow-hidden">
               <img 
@@ -91,7 +90,7 @@ export const Gallary = () => {
             </div>
           </div>
 
-          {/* Gallery Item 6 */}
+        
           <div className="col">
             <div className="card border-0 shadow-sm rounded overflow-hidden">
               <img 
@@ -106,7 +105,6 @@ export const Gallary = () => {
             </div>
           </div>
 
-          {/* Gallery Item 7 */}
           <div className="col">
             <div className="card border-0 shadow-sm rounded overflow-hidden">
               <img 
@@ -121,7 +119,7 @@ export const Gallary = () => {
             </div>
           </div>
 
-          {/* Gallery Item 8 */}
+        
           <div className="col">
             <div className="card border-0 shadow-sm rounded overflow-hidden">
               <img 
@@ -138,7 +136,7 @@ export const Gallary = () => {
 
         </div>
 
-        {/* View All Button */}
+      
         <div className="text-center mt-4">
           <a href="#!" className="btn btn-success btn-lg" style={{ fontWeight: 'bold', color: '#fff', padding: '12px 30px', borderRadius: '30px' }}>
             VIEW ALL IMAGES

@@ -8,17 +8,17 @@ export const About = () => {
 
   return (
     <>
-      {/* First Section */}
+  
       <section id="about" className="about-us py-5" style={{ backgroundColor: "#f9f9f9" }}>
         <div className="container">
-          {/* Section Title */}
+       
           <div className="text-center mb-5">
             <h2 className="fw-bold" style={{ color: "#2d6a4f" }}>{item1.title}</h2>
             <hr style={{ width: "80px", height: "4px", backgroundColor: "#2d6a4f", border: "none", margin: "10px auto" }} />
           </div>
 
           <div className="row align-items-center justify-content-between">
-            {/* Left Column: Image */}
+      
             <div className="col-md-6 mb-4 mb-md-0">
               <div className="image-wrapper text-center">
                 <img
@@ -30,7 +30,6 @@ export const About = () => {
               </div>
             </div>
 
-            {/* Right Column: Text */}
             <div className="col-md-6">
               <div className="content-wrapper">
                 <p
@@ -50,13 +49,13 @@ export const About = () => {
         </div>
       </section>
 
-      {/* Second Section */}
+    
       <section id="about" className="about-us py-5" style={{ backgroundColor: "#ffffff" }}>
         <div className="container">
-          {/* Section Title */}
-         
+      
+
           <div className="row align-items-center justify-content-between">
-            {/* Left Column: Text */}
+      
             <div className="col-md-6 text-center text-md-start">
               <div className="content-wrapper">
                 <p
@@ -73,7 +72,6 @@ export const About = () => {
               </div>
             </div>
 
-            {/* Right Column: Image */}
             <div className="col-md-6">
               <div className="image-wrapper text-center">
                 <img
@@ -88,7 +86,7 @@ export const About = () => {
         </div>
       </section>
 
-      {/* Footer (optional) */}
+  
       <footer />
     </>
   );

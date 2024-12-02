@@ -1,16 +1,16 @@
 import React from 'react';
-import image from "../images/image1.jpeg"; // Example image path
+import image from "../images/image1.jpeg";
 
 export const Initiatives2 = () => {
     return (
         <>
-            {/* Main Section */}
+           
             <section
                 className="initiative-section py-5"
                 style={{ backgroundColor: "#f9f9f9", fontFamily: "'Roboto', sans-serif" }}
             >
                 <div className="container">
-                    {/* Title Section */}
+                  
                     <div className="text-center mb-5">
                         <h1 className="fw-bold" style={{ color: "#2d6a4f" }}>
                             Donate a Day at the Farm
@@ -38,9 +38,9 @@ export const Initiatives2 = () => {
                         />
                     </div>
 
-                    {/* Content Section */}
+                  
                     <div className="row align-items-center">
-                        {/* Left Column: Image */}
+                      
                         <div className="col-lg-6 mb-4 mb-lg-0 text-center">
                             <img
                                 src={image}
@@ -50,7 +50,7 @@ export const Initiatives2 = () => {
                             />
                         </div>
 
-                        {/* Right Column: Text */}
+                      
                         <div className="col-lg-6">
                             <p
                                 className="lead"
@@ -69,7 +69,7 @@ export const Initiatives2 = () => {
                         </div>
                     </div>
 
-                    {/* Key Highlights Section */}
+              
                     <div className="mt-5 text-center">
                         <h3 className="fw-bold mb-3" style={{ color: "#2d6a4f" }}>
                             As a Participant, You Will:
@@ -104,7 +104,7 @@ export const Initiatives2 = () => {
                         </p>
                     </div>
 
-                    {/* Call-to-Action Section */}
+             
                     <div className="text-center mt-5">
                         <h4
                             className="fw-bold"

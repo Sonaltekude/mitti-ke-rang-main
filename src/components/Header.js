@@ -13,7 +13,7 @@ export const Header = () => {
               src={logo}
               alt="NGO Logo"
               className="img-fluid"
-           
+
             />
           </Link>
           <button
@@ -31,7 +31,7 @@ export const Header = () => {
           <div className="collapse navbar-collapse justify-content-between px-lg-3" id="navbarCollapse">
             <div className="navbar-nav m-auto py-0 gap-3 ">
               <li>
-              <Link to="/" class="nav-item nav-link fs-5">Home</Link>
+                <Link to="/" class="nav-item nav-link fs-5">Home</Link>
               </li>
               <li className="nav-item dropdown dropdown-hover position-static">
                 <Link data-mdb-dropdown-init class="nav-link dropdown-toggle active fs-5" to="/about" id="navbarDropdown" role="button"
@@ -72,10 +72,10 @@ export const Header = () => {
                 </div>
               </li>
               <li>
-              <Link to="/gallary" className="nav-item fs-5 nav-link">Gallary</Link>
+                <Link to="/gallary" className="nav-item fs-5 nav-link">Gallary</Link>
               </li>
               <li>
-              <Link to="/contact" className="nav-item fs-5 nav-link">Contact</Link>
+                <Link to="/contact" className="nav-item fs-5 nav-link">Contact</Link>
               </li>
             </div>
             <Link to="/donate" className="btn btn-success text-dark ms-3 py-2">

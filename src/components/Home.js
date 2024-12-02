@@ -35,7 +35,7 @@ export const Home = () => {
 
   return (
     <div>
-      {/* Carousel */}
+    
       <div id="mediaCarousel" className="carousel slide" data-bs-ride="carousel">
         <div className="carousel-inner">
           <div className="carousel-item active">
@@ -47,10 +47,10 @@ export const Home = () => {
         </div>
       </div>
 
-      {/* About Section */}
+    
       <About />
 
-      {/* Mission & Progress */}
+    
       <div className="container text-center py-5 mt-3">
         <h1 className="display-5 fw-bold text-success">On a mission to plant 1 trillion trees by 2050</h1>
         <p className="fs-5 text-muted">
@@ -58,7 +58,6 @@ export const Home = () => {
           <a href="#" className="text-success fw-semibold"> Master Plan</a> on how we aim to achieve this monster goal.
         </p>
 
-        {/* Progress Bars */}
         <div className="row text-center mt-5">
           <div className="col-md-4 mb-4">
             <h2 className="display-6 fw-bold">{todayCount}+</h2>
@@ -115,13 +114,13 @@ export const Home = () => {
           </div>
         </div>
 
-        {/* CTA Button */}
+       
         <div className="text-center mt-4">
           <button className="btn btn-success btn-lg fw-bold shadow-lg hover:scale-105 transition-all duration-300">Plant trees</button>
         </div>
       </div>
 
-      {/* Mission Vision Section */}
+     
       <section className="mission-vision py-5 bg-light">
         <div className="container">
           <div className="text-center">
@@ -133,10 +132,8 @@ export const Home = () => {
         </div>
       </section>
 
-      {/* Gallery */}
       <Gallary />
 
-      {/* Contact Section */}
       <Contact />
     </div>
   );
