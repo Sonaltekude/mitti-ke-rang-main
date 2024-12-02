@@ -1,0 +1,39 @@
+.header{
+  background-color: #23e823;
+
+}
+
+.dropdown:hover > .dropdown-menu {
+  display: block;
+  border: none;
+}
+.dropdown > .dropdown-toggle:active {
+  pointer-events: none;
+}
+
+
+.navbar-brand img{
+  height: 80px;
+  width: 80px;
+}
+.footer{
+  background-color: #23e823;
+}
+
+.carousel-image {
+  width: 100%;
+  height: 55vh; /* Set height to 50% of the viewport height */
+  object-fit: cover; /* Crop and center image to fit */
+}
+.video{
+  width: 100%;
+  height: 55vh; 
+  object-fit: cover; 
+}  
+.button{
+  background-color: #228B22;
+}
+
+.image-container {
+  background-color: white;
+}

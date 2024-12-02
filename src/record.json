@@ -1,0 +1,27 @@
+[
+    {  "id":0,
+       "image":"https://media.istockphoto.com/id/1201112520/photo/planting-tree-in-garden-concept-save-world-green-earth.jpg?s=612x612&w=0&k=20&c=nYvD6suoUax7iOhi8vxc5X-oHtS5C2Ifu6x9LWrrdgg=",
+       "image1": "https://i.pinimg.com/736x/4b/9a/0c/4b9a0c0e54e8c9d8e730f43ab6248739.jpg",
+      "video":"https://d1xls0wlmfol3j.cloudfront.net/wp-content/uploads/2024/06/18050531/freecompress-website-video-new3-1-1.mp4"
+  
+    },
+      {
+        "id": 1,
+        "title": "AboutUs",
+        "content": "Mitti Ke Rang Foundation is a non-governmental organization (NGO) dedicated to bringing positive change to rural communities by empowering farmers and promoting sustainable agriculture. The foundation’s core mission is to support farmers in adopting agricultural forestry, a practice that combines growing trees with crops to enhance productivity, improve soil health, conserve water, and increase income. The NGO believes in creating opportunities for farmers to thrive by providing them with education, resources, and guidance to build sustainable agricultural systems. By helping farmers transition to eco-friendly practices, Mitti Ke Rang Foundation not only enhances their livelihoods but also contributes to environmental conservation and climate resilience.",
+        "image": "https://media.istockphoto.com/id/1201112520/photo/planting-tree-in-garden-concept-save-world-green-earth.jpg?s=612x612&w=0&k=20&c=nYvD6suoUax7iOhi8vxc5X-oHtS5C2Ifu6x9LWrrdgg="
+      },
+      {
+        "id": 2,
+        "title": " ",
+        "content": "Mitti Ke Rang Foundation also works as a bridge, connecting farmers to markets, technology, and funding opportunities while fostering collaborations with government bodies, other NGOs, and private organizations. Through its efforts, the foundation aims to restore degraded land, enhance biodiversity, and promote self-reliance among rural communities. At its heart, Mitti Ke Rang Foundation is committed to building a future where farming is not just a means of survival but a sustainable way to grow prosperity and protect the planet. It stands as a beacon of hope for farmers striving for a better, greener tomorrow.",
+        "image": "https://media.istockphoto.com/id/1201112520/photo/planting-tree-in-garden-concept-save-world-green-earth.jpg?s=612x612&w=0&k=20&c=nYvD6suoUax7iOhi8vxc5X-oHtS5C2Ifu6x9LWrrdgg="
+      },
+      {
+        "id": 3,
+        "title": "Who We Are?",
+        "content": " We are a community of changemakers—environmentalists, educators, volunteers, and everyday citizens—dedicated to creating a greener planet. Guided by our values of integrity, inclusivity, and sustainability, we aim to inspire others to recognize the critical role trees play in addressing global challenges like climate change, biodiversity loss, and urbanization.",
+        "image": "https://i.pinimg.com/736x/4b/9a/0c/4b9a0c0e54e8c9d8e730f43ab6248739.jpg"
+      }
+     
+    ]
